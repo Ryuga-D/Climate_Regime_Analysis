@@ -112,12 +112,6 @@ The system successfully validates known climate physics purely from data:
 
 ---
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## 📝 License
-This project is licensed under the MIT License.
-
 <div align="center">
   <i>"Understanding our past climate to better forecast our future."</i>
 </div>
